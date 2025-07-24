@@ -329,7 +329,7 @@ Project ini dibuat untuk keperluan akademik - Ujian Akhir Semester Pemrograman W
 - 🎓 **NIM**: 202312045
 - 📧 **Email**: putrin151204@gmail.com
 - 📚 **Proyek**: Ujian Akhir Semester - Pemrograman Web
-- 🏫 **Institusi**: [Nama Universitas]
+- 🏫 **Institusi**: Sekolah Tinggi Teknologi Bontang
 
 ---
 

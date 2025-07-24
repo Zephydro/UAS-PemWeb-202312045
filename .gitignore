@@ -1,0 +1,14 @@
+# Storage
+storage/logs/*
+!storage/logs/.gitkeep
+
+# Config
+config/local.php
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

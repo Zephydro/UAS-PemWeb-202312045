@@ -36,8 +36,8 @@ HotelEase adalah sistem manajemen hotel berbasis web yang dirancang untuk memuda
 
 ### ✨ Link Youtube dan Hosting
 
-- **Link Youtube : 
-- **Link Hosting : https://putri.mangaverse.my.id/
+- **Link Youtube : https://youtu.be/0AN5cwQq9c8**
+- **Link Hosting : https://putri.mangaverse.my.id/**
 
 ## 🛠️ Teknologi yang Digunakan
 

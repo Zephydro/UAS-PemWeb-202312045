@@ -34,6 +34,11 @@ HotelEase adalah sistem manajemen hotel berbasis web yang dirancang untuk memuda
 - **📱 Responsive Design**: Compatible dengan desktop dan mobile
 - **🎨 Modern UI/UX**: Clean interface dengan Bootstrap 5
 
+### ✨ Link Youtube dan Hosting
+
+- **Link Youtube : 
+- **Link Hosting : https://putri.mangaverse.my.id/
+
 ## 🛠️ Teknologi yang Digunakan
 
 ### Backend
